@@ -1,0 +1,16 @@
+{
+  "name": "transducers",
+  "version": "0.0.0",
+  "description": "",
+  "homepage": "http://github.com/dialelo/transducers.js",
+  "license": "MIT",
+  "main": "transducers.js",
+  "keywords": ["algorithmic transformations", "functional", "transducers.js"],
+  "author": "Alejandro Gómez <alejandro@dialelo.com>",
+  "bugs": "https://github.com/dialelo/transducers.js/issues",
+  "repository": { "type": "git", "url": "https://github.com/dialelo/transducers.js.git" },
+  "files": [
+    "LICENSE",
+    "transducers.js"
+  ]
+}
